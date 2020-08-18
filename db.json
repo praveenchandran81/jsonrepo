@@ -1,32 +1,38 @@
 {
-  "posts": [
+  "persons": [
     {
       "id": 1,
-      "title": "Post 1"
+      "name": "Suhas"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "name": "Fahad"
     },
     {
       "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "name": "Praveen"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
+      "id": 4,
+      "name": "Anson"
+    }  
+    ,
+    {
+      "id": 5,
+      "name": "Vikas"
+    }  
+    ,
+    {
+      "id": 6,
+      "name": "Renjith"
+    }  
+  ,
+    {
+      "id": 7,
+      "name": "Jabbarikka"
+    }  
+  
   ],
-  "profile": {
-    "name": "typicode"
-  }
+   
 }
 
